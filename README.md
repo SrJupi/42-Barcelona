@@ -5,7 +5,7 @@
 
 ### 42 Cursus ![Cursus Level](https://progress-bar.dev/21/?title=Level%202&color=303030&width=200)
 
-Main cursus of 42 Schools after approved in the [piscine](#c-piscine). Below are the links for my original projects ordered by delivery date.  
+Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below are the links for my original projects ordered by delivery date.  
 
 ![Libft](https://progress-bar.dev/125/?title=⭐%20&color=303030&width=100) - [Libft](https://github.com/SrJupi/libft)  
 ![exam2](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - Exam Rank 02  
