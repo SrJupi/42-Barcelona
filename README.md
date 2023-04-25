@@ -17,6 +17,11 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 ![exam3](https://progress-bar.dev/75/?title=🔄%20&color=303030&width=100) - [so_long](https://github.com/SrJupi/so_long)  
 ![exam3](https://progress-bar.dev/0/?title=🔄%20&color=303030&width=100) - [push_swap](https://github.com/SrJupi/push_swap)  
 
+⭐ -> Project approved with bonus  
+✅ -> Project approved  
+🔄 -> Project started  
+🚫 -> Project not started  
+
 ### Bootcamp Cybersecurity ![Cyber Level](https://progress-bar.dev/0/?title=Level%200&color=303030&width=200)
 [Bootcamp Cybersecurity Code](https://github.com/SrJupi/Bootcamp-Cybersecurity)
 
