@@ -22,7 +22,7 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 🔄 -> Project started  
 🚫 -> Project not started  
 
-### Bootcamp Cybersecurity ![Cyber Level](https://progress-bar.dev/0/?title=Level%200&color=303030&width=200)
+### Bootcamp Cybersecurity ![Cyber Level](https://progress-bar.dev/38/?title=Level%200&color=303030&width=200)
 8-week long bootcamp, training in competencies related to cryptography, communication network security, secure development and protection, web security, vulnerabilities, computer forensics, malware and malicious codes, OSINT techniques and metadata, and open source research, among others.  
   
 [Bootcamp Cybersecurity Code](https://github.com/SrJupi/Bootcamp-Cybersecurity)
