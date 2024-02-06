@@ -3,7 +3,7 @@
 
 ## My Courses At 42 Barcelona
 
-### 42 Cursus ![Cursus Level](https://progress-bar.dev/88/?title=Level%203&color=303030&width=200)
+### 42 Cursus ![Cursus Level](https://progress-bar.dev/12/?title=Level%204&color=303030&width=200)
 
 Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below are the links for my original projects ordered by approval date.  
 
@@ -17,7 +17,13 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 ![push_swap](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [push_swap](https://github.com/SrJupi/push_swap)  
 ![so_long](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [so_long](https://github.com/SrJupi/so_long)  
 ![philosophers](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [philosophers](https://github.com/SrJupi/philosophers)  
-![minishell](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [minishell](https://github.com/dfneto/minishell)  
+![minishell](https://progress-bar.dev/101/?title=✅%20&color=303030&width=100) - [minishell](https://github.com/dfneto/minishell)  
+![Net_Practice](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [Net_Practice](https://github.com/SrJupi/net_practice)  
+![C++ - module 00](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module00](https://github.com/SrJupi/cpp_modules/tree/main/module_00)  
+![C++ - module 01](https://progress-bar.dev/43/?title=🔄%20&color=303030&width=100) - [C++ - module01](https://github.com/SrJupi/cpp_modules/tree/main/module_01)  
+![C++ - module 02](https://progress-bar.dev/0/?title=🚫%20&color=303030&width=100) - [C++ - module02](https://github.com/SrJupi/cpp_modules/tree/main/module_02)  
+![C++ - module 03](https://progress-bar.dev/0/?title=🚫%20&color=303030&width=100) - [C++ - module03](https://github.com/SrJupi/cpp_modules/tree/main/module_03)  
+![C++ - module 04](https://progress-bar.dev/0/?title=🚫%20&color=303030&width=100) - [C++ - module04](https://github.com/SrJupi/cpp_modules/tree/main/module_04)  
 
 ⭐ -> Project approved with bonus  
 ✅ -> Project approved  
