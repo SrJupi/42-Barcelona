@@ -17,7 +17,7 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 ![push_swap](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [push_swap](https://github.com/SrJupi/push_swap)  
 ![so_long](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [so_long](https://github.com/SrJupi/so_long)  
 ![philosophers](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [philosophers](https://github.com/SrJupi/philosophers)  
-![minishell](https://progress-bar.dev/0/?title=🔄%20&color=303030&width=100) - [minishell](https://github.com/dfneto/minishell)  
+![minishell](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [minishell](https://github.com/dfneto/minishell)  
 
 ⭐ -> Project approved with bonus  
 ✅ -> Project approved  
