@@ -21,7 +21,7 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 ![Net_Practice](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [Net_Practice](https://github.com/SrJupi/net_practice)  
 ![C++ - module 00](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module00](https://github.com/SrJupi/cpp_modules/tree/main/module_00)  
 ![C++ - module 01](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module01](https://github.com/SrJupi/cpp_modules/tree/main/module_01)  
-![C++ - module 02](https://progress-bar.dev/50/?title=🔄%20&color=303030&width=100) - [C++ - module02](https://github.com/SrJupi/cpp_modules/tree/main/module_02)  
+![C++ - module 02](https://progress-bar.dev/75/?title=🔄%20&color=303030&width=100) - [C++ - module02](https://github.com/SrJupi/cpp_modules/tree/main/module_02)  
 ![C++ - module 03](https://progress-bar.dev/0/?title=🚫%20&color=303030&width=100) - [C++ - module03](https://github.com/SrJupi/cpp_modules/tree/main/module_03)  
 ![C++ - module 04](https://progress-bar.dev/0/?title=🚫%20&color=303030&width=100) - [C++ - module04](https://github.com/SrJupi/cpp_modules/tree/main/module_04)  
 
