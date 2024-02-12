@@ -3,7 +3,7 @@
 
 ## My Courses At 42 Barcelona
 
-### 42 Cursus ![Cursus Level](https://progress-bar.dev/12/?title=Level%204&color=303030&width=200)
+### 42 Cursus ![Cursus Level](https://progress-bar.dev/31/?title=Level%204&color=303030&width=200)
 
 Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below are the links for my original projects ordered by approval date.  
 
