@@ -3,7 +3,7 @@
 
 ## My Courses At 42 Barcelona
 
-### 42 Cursus ![Cursus Level](https://progress-bar.dev/31/?title=Level%204&color=303030&width=200)
+### 42 Cursus ![Cursus Level](https://progress-bar.dev/33/?title=Level%205&color=303030&width=200)
 
 Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below are the links for my original projects ordered by approval date.  
 
@@ -22,9 +22,10 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 ![exam4](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - Exam Rank 04  
 ![C++ - module 00](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [C++ - module00](https://github.com/SrJupi/cpp_modules/tree/main/module_00)  
 ![C++ - module 01](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [C++ - module01](https://github.com/SrJupi/cpp_modules/tree/main/module_01)  
-![C++ - module 02](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module02](https://github.com/SrJupi/cpp_modules/tree/main/module_02)  
-![C++ - module 03](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module03](https://github.com/SrJupi/cpp_modules/tree/main/module_03)  
-![C++ - module 04](https://progress-bar.dev/75/?title=🔄%20&color=303030&width=100) - [C++ - module04](https://github.com/SrJupi/cpp_modules/tree/main/module_04)  
+![C++ - module 02](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [C++ - module02](https://github.com/SrJupi/cpp_modules/tree/main/module_02)  
+![C++ - module 03](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [C++ - module03](https://github.com/SrJupi/cpp_modules/tree/main/module_03)  
+![cub3D](https://progress-bar.dev/125/?title=⭐%20&color=303030&width=100) - [cub3D](https://github.com/jocorrea42/cub3d)  
+![C++ - module 04](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [C++ - module04](https://github.com/SrJupi/cpp_modules/tree/main/module_04)  
 
 ⭐ -> Project approved with bonus  
 ✅ -> Project approved  
