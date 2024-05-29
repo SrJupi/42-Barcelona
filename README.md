@@ -27,7 +27,7 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 ![cub3D](https://progress-bar.dev/125/?title=⭐%20&color=303030&width=100) - [cub3D](https://github.com/jocorrea42/cub3d)  
 ![C++ - module 04](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [C++ - module04](https://github.com/SrJupi/cpp_modules/tree/main/module_04)  
 ![exam5](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - Exam Rank 05  
-![C++ - module 05](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module05](https://github.com/SrJupi/cpp_modules/tree/main/module_05)  
+![C++ - module 05](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [C++ - module05](https://github.com/SrJupi/cpp_modules/tree/main/module_05)  
 ![C++ - module 06](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module06](https://github.com/SrJupi/cpp_modules/tree/main/module_06)  
 ![C++ - module 07](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module07](https://github.com/SrJupi/cpp_modules/tree/main/module_07)  
 ![C++ - module 08](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [C++ - module08](https://github.com/SrJupi/cpp_modules/tree/main/module_08)  
