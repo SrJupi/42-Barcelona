@@ -32,7 +32,9 @@ Main cursus of 42 Schools after approved in the [piscine](#c-piscine-). Below ar
 ✅ - [C++ - module07](https://github.com/SrJupi/cpp_modules/tree/main/module_07)  
 ✅ - [C++ - module08](https://github.com/SrJupi/cpp_modules/tree/main/module_08)  
 ✅ - [C++ - module09](https://github.com/SrJupi/cpp_modules/tree/main/module_09)  
-🔄 - [inception](https://github.com/SrJupi/inception)  
+✅ - [inception](https://github.com/SrJupi/inception)  
+✅ - [ft_irc](https://github.com/SrJupi/ft_irc)  
+✅ - [transcendence](https://github.com/ailopez-o/42Barcelona-Transcendence)  
 
 
 
